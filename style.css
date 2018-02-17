@@ -11,3 +11,18 @@ body {
 }
 
 /* Create your styles below */
+
+#canvas-area {
+	margin: 10px auto;
+	width: 500px;
+	height: 400px;
+}
+
+h1 {
+	font-family: 'Cookie', cursive;
+	font-size: 60px;
+}
+
+button , label {
+	display: block;
+}
